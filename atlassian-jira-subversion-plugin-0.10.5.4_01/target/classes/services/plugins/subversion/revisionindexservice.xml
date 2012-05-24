@@ -1,5 +1,0 @@
-<changesservice id="svn-revisionindexservice">
-    <description>System service to retrieve latest Subversion revisions</description>
-    <properties>
-    </properties>
-</changesservice>
