@@ -23,7 +23,7 @@ Install the plugin according to the [installation instructions](https://studio.p
  * Enable the "svnSoapService" module
  * Enable the "SOAP" module
 
-You can verify that everything is working by opening a web browser and making sure you see a WSDL at [http://<yourjiramachine>/rpc/soap/subversionsoapservice-v2?wsdl](http://localhost/rpc/soap/subversionsoapservice-v2?wsdl).
+You can verify that everything is working by opening a web browser and making sure you see a WSDL at [http://yourjiraserver/rpc/soap/subversionsoapservice-v2?wsdl](http://localhost/rpc/soap/subversionsoapservice-v2?wsdl).
 
 (Optional) Create a Post-Commit Hook
 =
